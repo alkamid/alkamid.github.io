@@ -213,7 +213,7 @@
         
         
         //read in the database, sort by number of terms in office, then by parliamentary club (i.e. party)
-        d3.csv('data/processed.csv', function(db){
+        d3.csv('data/7th_term.csv', function(db){
             
             db = db.filter(function(d){
                 return d.expired == 'None'
