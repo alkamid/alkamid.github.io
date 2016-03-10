@@ -5,7 +5,7 @@ name: etching
 comments: true
 ---
 
-This is the second part of [this story]({% post_url en/2011-07-13-en-cleanroom-hemt %}). When the mask and the sample are aligned, the latter has to be exposed to UV light for a few seconds. We use a positive resist, which means that we want exposed parts of the sample to vanish during the next step, namely "developing" (sounds a bit like old-school photography, doesn't it).
+This is the second part of [this story]({% post_url 2011-07-13-en-cleanroom-hemt %}). When the mask and the sample are aligned, the latter has to be exposed to UV light for a few seconds. We use a positive resist, which means that we want exposed parts of the sample to vanish during the next step, namely "developing" (sounds a bit like old-school photography, doesn't it).
 
 All the chemical steps of the process are done on a wet bench, that is a small, partially closed area with conditioning system to remove fumes and toxic gases. The sample is immersed in a developer which dissolves the UV-exposed parts of the resist. Then I can check if everything went well under a microscope. There is an interesting invention involved in this part of processing: a DI weir. It checks the purity of deionized water by measuring its resistivity. Pure DI water should show around 18MΩ·cm, so we put the sample on a tray and insert it into the weir, obviously contaminating the water and increasing its resistivity. We usually wait until it goes back over 10MΩ·cm - then we can assume that the sample is clean.
 

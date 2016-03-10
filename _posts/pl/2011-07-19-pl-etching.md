@@ -5,7 +5,7 @@ name: etching
 comments: true
 ---
 
-Jest to druga część [tej opowieści]({% post_url pl/2011-07-13-pl-cleanroom-hemt %}). Kiedy maska i próbka są dopasowane, na kilka sekund włącza się źródło UV. Używamy tu rezystu pozytywnego, co znaczy że ta część, która została poddana działaniu światła, zostanie rozpuszczona w kolejnym kroku (wywoływanie). Brzmi trochę jak domowa fotografika, prawda?
+Jest to druga część [tej opowieści]({% post_url 2011-07-13-pl-cleanroom-hemt %}). Kiedy maska i próbka są dopasowane, na kilka sekund włącza się źródło UV. Używamy tu rezystu pozytywnego, co znaczy że ta część, która została poddana działaniu światła, zostanie rozpuszczona w kolejnym kroku (wywoływanie). Brzmi trochę jak domowa fotografika, prawda?
 
 Wszystkie etapy chemiczne odbywają się pod specjalnym wyciągiem, który zbiera potencjalnie niebezpieczne opary. Próbka jest zanurzana w wywoływaczu, który rozpuszcza naświetlony rezyst. Żeby zobaczyć, czy wszystko się dobrze wywołało, wystarczy zwyczajny optyczny mikroskop. Najciekawszym wynalazkiem w tym etapie jest _DI weir_, czyli taka dwukomorowa śluza, w której przepływa dejonizowana woda. Gdzieś tam muszą być elektrody, które mierzą rezystancję wody - jeśli jest czysta, powinna ona wynosić około 18MΩ·cm. Wkładamy więc tam próbkę, która oczywiście zanieczyszcza wodę, i czekamy aż rezystancją wróci ponad 10MΩ·cm - wtedy możemy uznać, że nasza próbka jest wyczyszczona.
 
