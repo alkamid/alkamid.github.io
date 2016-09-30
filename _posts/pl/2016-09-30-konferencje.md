@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-name: konferencje
+name: conferences
 title: Konferencje kameralne
 ---
 
