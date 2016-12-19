@@ -1,0 +1,136 @@
+Przedłużki do trójek usunięte w 35. aktualizacji OSPS (łącznie z usuniętymi trójkami):
+  AGF-O
+  AGF-Y
+  AGF-Ę
+  AGF-A
+  AGF-Ą
+  BAS-F
+  BEL-L
+  BOD-U
+  FOR-D
+  FUJ-I
+  GRA-L
+Z-ILE
+  KIO-M
+S-KOD
+  LEI-C
+  LIS-P
+  MEN-O
+  NYS-Ę
+  NYS-A
+  NYS-Ą
+  NYS-Y
+  NYS-O
+  OHM-U
+O-PEL
+  PRO-Z
+U-ROD
+  SAK-O
+  SAN-A
+  SAN-Y
+S-TAR
+  ZIS-A
+  ZIS-Y
+  ZIŁ-Y
+  ZIŁ-A
+  ŁAD-O
+  ŁAD-Ę
+  ŁAD-Ą
+  ŁAD-A
+  ŁAJ-A
+
+
+--------------
+Przedłużki do trójek dodane w 35. aktualizacji OSPS (łącznie z dodanymi trójkami):
+H-ACZ
+  AGA-N
+L-ANS
+  BAJ-C
+  BAS-S
+  BOD-A
+Z-BOK
+  BRU-M
+  BUL-O
+  BUL-A
+  CIP-Ć
+  DIS-O
+  DIS-Ą
+  DIS-Ę
+  EFO-M
+  END-A
+  ETY-N
+  EZO-M
+  FAR-Ć
+  FON-A
+  FOT-Ę
+  FOT-Ą
+  FUG-U
+  GOJ-I
+O-GÓR
+  HAJ-S
+  HAS-H
+  HEJ-T
+  HEJ-A
+  HUB-U
+  KEG-I
+  KEG-A
+  KEG-U
+  KLE-M
+  KOB-A
+  KOB-Y
+  KOB-O
+  KOM-P
+  KOT-W
+  LAG-U
+P-LAS
+  LES-B
+K-LIM
+  LOT-I
+  LUJ-E
+  LUJ-U
+  LUJ-A
+  MAJ-T
+  MAM-Ć
+  MEM-A
+  MEM-Y
+  MOC-C
+  MOD-Ź
+  MYK-A
+  MYK-I
+  MYK-U
+A-MYL
+  MÓD-Ź
+  NAR-A
+  NER-D
+F-OCH
+  OES-U
+  OES-Y
+  OWA-Ż
+  OWE-Ż
+  OWI-Ż
+  OWĄ-Ż
+  PAN-G
+  PEN-A
+  PEN-Y
+  PIA-R
+  PIL-S
+  PIN-G
+  PUF-O
+  PUF-Ą
+  PUF-Ę
+W-RAP
+F-ROT
+W-RYP
+Z-RYP
+  SEN-E
+  SEN-T
+K-SER
+  SIO-R
+  TAB-A
+  TAB-Y
+  TAK-Ę
+  TAL-A
+  UED-U
+  UJE-B
+  ZON-K
+  ŻAB-Ć
